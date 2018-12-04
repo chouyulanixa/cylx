@@ -17,8 +17,11 @@ npm run build
 
 For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
 
+2018 12 4
+一、登录 注册界面 
+二、主界面
+三、实现登录注册功能 
+四、整体框架的设计
 
-
-2018 11 28 22:48
 
 
