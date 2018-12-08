@@ -1,7 +1,8 @@
-<script src="../main.js"></script>
+
 <template>
   <div id="app">
     <h1 class="top">臭鱼烂虾社区</h1>
+    <div><img src="../img/xia.png"/></div>
     <div class="from">
       <from>
         <input v-model="message" placeholder=" 账号" class="from-1">
@@ -13,7 +14,7 @@
          <span>忘记密码</span>
        </p>
     </div>
-  </div>
+  </div>  
 </template>
 
 <script>
